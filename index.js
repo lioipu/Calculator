@@ -16,7 +16,8 @@ function add() {
     let result = num1 + num2
     sumEl.textContent = "Sum: " + result
 }
-
+// test
+// test2
 function subtract() {
     let result = num1 - num2
     sumEl.textContent = "Sum: " + result
